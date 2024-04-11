@@ -1,3 +1,4 @@
+
 const topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
 for (let x = 0; x < topics.length; x++) {
@@ -19,3 +20,4 @@ if (topic === 'HTML') {
   console.log('Please try again!');
 }
 */
+
